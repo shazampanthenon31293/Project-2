@@ -880,3 +880,10 @@ P.lbexBreakHere {
 a:link,a:visited{
     color: blue;
 }
+table {
+    border-collapse: collapse;
+  }
+  
+table, th, td {
+    border: 1px solid black;
+}
